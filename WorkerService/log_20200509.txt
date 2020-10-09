@@ -1,0 +1,14 @@
+2020-05-09 17:58:24.838 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-05-09 17:58:24.888 +03:00 [INF] Hosting environment: Development
+2020-05-09 17:58:24.891 +03:00 [INF] Content root path: D:\OneDrive\Coding\src\ScanSorterCore\WorkerService
+2020-05-09 17:58:49.514 +03:00 [INF] Application is shutting down...
+2020-05-09 17:59:12.916 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-05-09 17:59:12.954 +03:00 [INF] Hosting environment: Development
+2020-05-09 17:59:12.958 +03:00 [INF] Content root path: D:\OneDrive\Coding\src\ScanSorterCore\WorkerService
+2020-05-09 18:03:03.768 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-05-09 18:03:03.812 +03:00 [INF] Hosting environment: Development
+2020-05-09 18:03:03.815 +03:00 [INF] Content root path: D:\OneDrive\Coding\src\ScanSorterCore\WorkerService
+2020-05-09 18:04:06.416 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-05-09 18:04:06.458 +03:00 [INF] Hosting environment: Development
+2020-05-09 18:04:06.461 +03:00 [INF] Content root path: D:\OneDrive\Coding\src\ScanSorterCore\WorkerService
+2020-05-09 18:04:25.437 +03:00 [INF] Application is shutting down...
